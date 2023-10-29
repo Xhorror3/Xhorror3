@@ -1,6 +1,4 @@
-𝗛𝗲𝗹𝗹𝗼, 𝗨𝘀𝗲𝗿👋
-
-Here are some ideas to get you started:
+             𝗛𝗲𝗹𝗹𝗼, 𝗨𝘀𝗲𝗿👋
 
 - 🌱 I’m currently learning python and javascript
 - 🤔 I’m looking for help with open source
